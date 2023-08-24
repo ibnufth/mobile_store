@@ -1,4 +1,4 @@
-[
+{ "mobile" :[
   {
     "id": 1,
     "title": "Samsung Galaxy S21",
@@ -320,3 +320,4 @@
     ]
   }
 ]
+}
